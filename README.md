@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 # HearWay
 <p align="center">
-  <img src="HearWay logo.jpg" width="150" hspace="20">
+  <img src="img/HearWay logo.jpg" width="150" hspace="20">
 </p>
 
 <details>
