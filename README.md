@@ -31,13 +31,22 @@
 
 ## Technologies Used
 <p align="center">
-  <img src="flutter logo.png" width="150" hspace="20">
-  <img src="django logo.png" width="150" hspace="20">
-  <img src="sqlite logo.png" width="150" hspace="20">
+  <a href="https://flutter.dev/">
+    <img src="flutter logo.png" width="150" hspace="20" alt="Flutter">
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="django logo.png" width="150" hspace="20" alt="Django">
+  </a>
+  <a href="https://www.sqlite.org/">
+    <img src="sqlite logo.png" width="150" hspace="20" alt="SQLite">
+  </a>
 </p>
 <p align="center">
-  <img src="Google Cloud logo.jpg" width="200" hspace="20">
+  <a href="https://cloud.google.com/">
+    <img src="Google Cloud logo.jpg" width="200" hspace="20" alt="Google Cloud">
+  </a>
 </p>
+
 
 ## Setup
 
