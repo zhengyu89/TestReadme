@@ -30,6 +30,16 @@
 
 ## Objectives
 
+- **Accessibility:**
+  * Fully accessible AI-powered mobile application for visually impaired individuals
+  * No additional hardware required
+
+- **Navigation Assistance:**
+  * Instant feedback through vibration, voice alerts and AI text-to-speech
+  * Real-time warnings about potential hazards
+
+- **Efficiency and Scalability:**
+  * Scalable backend architecture for fast and efficient AI processing 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Technologies Used
