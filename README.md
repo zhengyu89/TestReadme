@@ -1,5 +1,9 @@
 <a id="readme-top"></a>
 # HearWay
+<p align="center">
+  <img src="HearWay logo.jpg" width="150" hspace="20">
+</p>
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
