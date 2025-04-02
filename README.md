@@ -21,11 +21,11 @@
 </details>
 
 ## Project Description
-HearWay is an all-in-one AI-powered application designed for visually impaired individuals to navigate public spaces safely with instant feedback. 
-Here 's the function : 
-*It provides real-time text-to-speech assistance and detects platform edges and gaps in real-time, enhancing navigation for users
-*The application offers instant feedback through vibration, voice alerts and AI text-to-speech to warn users about potential hazards
-*It features a scalable backend architecture for fast and efficient AI processing, ensuring accessibility, navigation assistance and efficiency and scalability
+HearWay is an all-in-one AI-powered application designed for visually impaired individuals to navigate public spaces safely with instant feedback. <br>
+Here 's the function : <br>
+ * It provides real-time text-to-speech assistance and detects platform edges and gaps in real-time, enhancing navigation for users
+ * The application offers instant feedback through vibration, voice alerts and AI text-to-speech to warn users about potential hazards
+ * It features a scalable backend architecture for fast and efficient AI processing, ensuring accessibility, navigation assistance and efficiency and scalability
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## How it Worked
