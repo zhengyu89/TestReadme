@@ -26,7 +26,7 @@
 </details>
 
 ## Project Description
-HearWay is an all-in-one AI-powered application designed for visually impaired individuals to navigate public spaces safely with instant feedback. The app totally removes the need of human volunteers or extra equipment such as LiDAR through employing Google Cloud AI services for edge and obstacle detection.<br>
+HearWay is an all-in-one AI-powered mobile application designed for visually impaired individuals to navigate public spaces safely with instant feedback. The application totally removes the need of human volunteers or extra equipment such as LiDAR through employing Google Cloud AI services for edge and obstacle detection.<br>
 <br>Here's the function : <br>
  * It provides real-time text-to-speech assistance and detects obstacles, platform edges and gaps in real-time
  * The application offers instant feedback through vibration, voice alerts and AI text-to-speech to warn users about potential hazards
