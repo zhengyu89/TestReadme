@@ -36,14 +36,14 @@ HearWay is an all-in-one AI-powered mobile application designed for visually imp
 ## How it Worked
 1. **Start & Scan**
 Launch the HearWay, activate the system by clicking the **start** button
-> The app uses the smartphone camera to constantly monitor the environment
-<br>2. **Obstacle Detection**
-The camera continuously scans the surroundings, detecting platform edges, gaps and obstacles
-<br>3. **Instant Feedback & Alerts**
+> The app uses the smartphone camera to constantly monitor the environment<br>
+<br>2. **Obstacle Detection**<br>
+The camera continuously scans the surroundings, detecting platform edges, gaps and obstacles<br>
+<br>3. **Instant Feedback & Alerts**<br>
 - When an obstacle or hazard is detected:
   * A red frame highlights the deteced object on the screen
   * Voice alerts and AI text-to-speech warning message is generated and displayed *(e.g. "Watch out! There is a person in front of you")* inform users about the hazard
-  * Along with ibration feedback provides a secondary sensory alert
+  * Along with vibration feedback provides a secondary sensory alert
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
