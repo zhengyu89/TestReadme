@@ -195,7 +195,7 @@ flutter run
 
 ## 📌 Notes
 * Make sure your phone and computer are on the same network if you're using ADB over TCP/IP.
-* Use flutter doctor to ensure your dev environment is properly set up.
+* Use `flutter doctor` to ensure your dev environment is properly set up.
 
 ## 💪 You're good to go!
 
